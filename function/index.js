@@ -13,5 +13,14 @@ const firstPerson = {
 }
 
 let fullname = getFullName(firstPerson);
-
 console.log(fullname, '<<<< FULLNAME');
+
+
+// ARROR FUNCTION
+const tambah = (angka1, angka2) => {
+  let hasil = angka1 + angka2;
+
+  return hasil;
+}
+
+console.log(tambah(4, 5))
