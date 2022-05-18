@@ -1,4 +1,4 @@
-class Car {
+class Mobil {
   // attributes
   name = 'Avanza';
   fuel = 43;
@@ -28,7 +28,7 @@ class Car {
   }
 }
 
-console.log(Car.priceList());
+console.log(Mobil.priceList());
 
 // membuat instance baru dari Class Car
 const myCar = new Car('Matallic Green', 'Manual');
