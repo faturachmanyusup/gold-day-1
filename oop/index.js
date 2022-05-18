@@ -11,10 +11,6 @@ class Car {
     this.transmType = transmisionType;
   }
 
-  /**
-   * STATIC METHOD
-   * Dapat dijalankan (invoke) tanpa perlu instance.
-   */
   static priceList() {
     return {
       jakarta: 200_000_000,
