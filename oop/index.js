@@ -1,6 +1,6 @@
-class Mobil {
+class Motor {
   // attributes
-  name = 'Avanza';
+  name = 'Beat';
   fuel = 43;
   mileage = 0;
   cc = 1300;
@@ -28,7 +28,7 @@ class Mobil {
   }
 }
 
-console.log(Mobil.priceList());
+console.log(Motor.priceList());
 
 // membuat instance baru dari Class Car
 const myCar = new Car('Matallic Green', 'Manual');
