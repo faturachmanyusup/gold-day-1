@@ -43,3 +43,12 @@ const myCar = new Car('Matallic Green', 'Manual');
 // console.log('\n<<< Sesudah pergi');
 // console.log('Bensin:', myCar.fuel, 'Liters');
 // console.log('Jarak Tempuh:', myCar.mileage, 'KM');
+
+
+unstaged
+
+staged
+
+local repository
+
+remote repository
